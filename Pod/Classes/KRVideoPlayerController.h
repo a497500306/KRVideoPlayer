@@ -6,7 +6,7 @@
 //  Copyright (c) 2015 36kr. All rights reserved.
 //
 
-@import MediaPlayer;
+#import <MediaPlayer/MediaPlayer.h>
 
 @interface KRVideoPlayerController : MPMoviePlayerController
 
